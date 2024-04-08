@@ -6,7 +6,7 @@
   --hover-color: #ff007040;
   --decor-text-color:#000028;
   --bg-color: #000028;
-  --bg-image: url("/images/cover-image-dark.png");
+  --bg-image: url("../images/cover-image-dark.png");
   --rec-decor: visible;
   --menu-color: #ff0070;
 }
@@ -19,7 +19,7 @@
     --hover-color: #ff007040;
     --decor-text-color:#000028;
     --bg-color: #000028;
-    --bg-image: url("/images/cover-image-dark.png");
+    --bg-image: url("../images/cover-image-dark.png");
     --rec-decor: visible;
     --menu-color: #ff0070;
   }
