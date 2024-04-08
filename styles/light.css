@@ -7,7 +7,7 @@
   --decor-text-color:#353430;
   --bg-color: #353430;
   --menu-color: #353430;
-  --bg-image: url("../images/cover-image-light.png");
+  --bg-image: url("./images/cover-image-light.png");
   --rec-decor: hidden;
 }
 
@@ -20,7 +20,7 @@
     --decor-text-color:#353430;
     --bg-color: #353430;
     --menu-color: #353430;
-    --bg-image: url("../images/cover-image-light.png");
+    --bg-image: url("./images/cover-image-light.png");
     --rec-decor: hidden;
   }
 }
