@@ -12,7 +12,7 @@
 }
 
 @media (prefers-color-scheme: light) {
-  :root {
+  .page.theme_auto {
     --text-color: #353430;
     --accent-title-color: #ffc2e6;
     --accent-color: #ff8dcb;
