@@ -9,6 +9,7 @@
   --bg-image: url("../images/cover-image-dark.png");
   --rec-decor: visible;
   --menu-color: #ff0070;
+  
 }
 
 @media (prefers-color-scheme: dark) {
