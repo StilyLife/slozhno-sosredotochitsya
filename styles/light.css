@@ -4,24 +4,28 @@
   --title-color: #353430;
   --accent-color: #ff8dcb;
   --hover-color: #32312d66;
+  --decor-color: #343430;
   --decor-text-color:#353430;
   --bg-color: #fff1f7;
   --menu-color: #353430;
   --bg-image: url("../images/cover-image-light.png");
   --rec-decor: hidden;
+  --rec-color: #fff1f7;
 }
 
 @media (prefers-color-scheme: light) {
-  .page.theme_auto {
+  :root {
     --text-color: #353430;
     --accent-title-color: #ffc2e6;
     --title-color: #353430;
     --accent-color: #ff8dcb;
     --hover-color: #32312d66;
+    --decor-color: #343430;
     --decor-text-color:#353430;
     --bg-color: #fff1f7;
     --menu-color: #353430;
     --bg-image: url("../images/cover-image-light.png");
     --rec-decor: hidden;
+    --rec-color: #fff1f7;
   }
 }
