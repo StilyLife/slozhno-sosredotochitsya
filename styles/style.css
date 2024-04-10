@@ -296,7 +296,6 @@
 
   .content {
     gap: 50px;
-    padding: 60px 20px;
   }
 
   .section {
@@ -325,10 +324,6 @@
   }
 
   .footer-title {
-    color: var(--accent-title-color);
-    font-weight: 700;
     font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
-    line-height: 82.5%;
-    text-shadow: 2px 2px 0 var(--accent-color);
   }
 }
